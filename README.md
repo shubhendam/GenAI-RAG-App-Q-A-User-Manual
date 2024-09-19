@@ -1,4 +1,4 @@
-# User Manual Expert - Llama 3.1: 8B
+# User Manual Expert - Llama 3.1:8B
 
 ## Introduction
 
